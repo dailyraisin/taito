@@ -1,0 +1,47 @@
+# javascript
+node_modules/
+bower_components/
+lib-cov
+
+# scss
+.sass-cache/
+scssReport.xml
+
+# temporary and build
+.tmp/
+dist/
+
+# logs
+log/
+logs/
+*.log
+
+# runtime
+pids
+*.pid
+*.seed
+
+# vim
+*~
+*.swp
+*.swo
+
+# OSX
+.DS_Store
+.VolumeIcon.icns
+.fseventsd
+.Trashes
+._.Trashes
+._.
+.Spotlight-V100
+Icon
+
+# windows
+[Tt]humbs.db
+[Dd]esktop.ini
+
+.npmrc
+
+*.zip
+*.gz
+npm-debug.log*
